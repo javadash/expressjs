@@ -1,0 +1,14 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "lets play",
+  "main": "app/app.js",
+  "scripts": {
+    "start": "node app/app.js"
+  },
+  "author": "Johnson Olayiwola",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
